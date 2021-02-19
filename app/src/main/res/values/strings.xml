@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptoFun</string>
+    <string name="hash_prefix">Hash: %s</string>
+    <string name="value_prefix">Value: %s</string>
+</resources>
